@@ -1,0 +1,19 @@
+#top{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#topright{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 40%;
+}
+.search{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.seacrTerm{
+    height: 50%;
+}
